@@ -27,16 +27,16 @@ Here is a detailed recount of what I did in order to complete that work:
 
 * I created a new GitHub repository,
 * I took a pen, some paper and I wrote down the data that seemed relevant to me in my attempt to synthesize the problem at hand:
-** ![pen and paper](pen_and_paper.jpg)
+    * ![pen and paper](pen_and_paper.jpg)
 * Once I did that, I came up with a search string for Google:
-** `Find the highest delta between 2 values in python`
+    * `Find the highest delta between 2 values in python`
 * I then googled the problem in my own terms,
 * I got an interesting [link poiting to GeeksforGeeks](https://www.geeksforgeeks.org/maximum-difference-between-two-elements/),
 * I created a short Python file to implement the solution proposed,
 * I tested it against a variety of inputs:
-** `stock_prices_yesterday = [55, 55, 56, 57, 57, 57, 57, 62, 63, 64, 79, 80]`
-** `stock_prices_yesterday = [1, 2, 90, 10, 110]`
-** `stock_prices_yesterday = [10, 7, 5, 8, 11, 9]`
+    * `stock_prices_yesterday = [55, 55, 56, 57, 57, 57, 57, 62, 63, 64, 79, 80]`
+    * `stock_prices_yesterday = [1, 2, 90, 10, 110]`
+    * `stock_prices_yesterday = [10, 7, 5, 8, 11, 9]`
 * I validated that it works as expected,
 * I pushed all this to *master*,
 * You now probably wonder if this is cheating or not, but you already know the answer: you do the same on a regular basis, like 100% of coders out there,
